@@ -185,6 +185,14 @@
             
         </url>
     
+        <url>
+            <loc>http://localhost:4000/page/2/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
     
         <url>
             <loc>http://localhost:4000/why-books-should-be-your-priority/</loc>
@@ -284,11 +292,5 @@
             <lastmod>2010-09-10</lastmod>
         </url>
     
-    
-        <url>
-            <loc>http://localhost:4000/authors/thiagorossener/</loc>
-            <changefreq>monthly</changefreq>
-            <priority>0.5</priority>
-        </url>
     
 </urlset>

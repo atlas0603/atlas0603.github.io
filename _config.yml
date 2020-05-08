@@ -1,15 +1,24 @@
 # Site Settings
-name: Inqtravel
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: InqTravel
+title: InqTravel ~探究心に溢れる旅を~
+description: InqTravelは主にヨーロッパ旅行の旅行記を綴った、ITエンジニアによる旅行ブログである。
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - ヨーロッパ
+  - InqTravel
+  - ブログ
+  - 旅行
+  - 旅
+  - 留学
+  - 写真
+  - アジア
+  - 体験
+  - 感想
+  - 探究心
+  - 好奇心
+
 email: tmasaki267@gmail.com
-disqus_username: disqus_username
+disqus_username: マー
 show_hero: true
 menu:
   - title: Home
@@ -21,21 +30,15 @@ menu:
   - title: Feed
     url: /feed.xml
 
+paginate: 12
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
-
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
-show_modal_on_finish_post: true
+show_modal_on_finish_post: false
 two_columns_layout: true
 
 
@@ -43,7 +46,7 @@ two_columns_layout: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "ja"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
@@ -99,5 +102,114 @@ exclude: [
   'README.md'
 ]
 
+translations:
+  text:
+    new_post: "新しい投稿"
+    see_also: "こちらの記事も人気です"
+    search: "探す"
+    author: "著者"
+    share: "シェア"
+    comments: "コメント"
+  button:
+    read_now: "投稿を読む"
+    share_on_twitter: "Twitterでシェア"
+    share_on_facebook: "Facebookでシェア"
+  pagination:
+    page: "Page"
+    of: "of"
+    next_page: "次のページ"
+    next_post: "前のページ"
+  recommendation:
+    text: "おすすめの記事"
+    back_btn: "トップへ戻る"
+  error_404:
+    title: "Page not found :("
+    message: "申し訳ございません。お探しのページが見つかりませんでした."
+    image_alt: "404 - ページが見つかりません"
+  contact:
+    title: "お問い合わせ"
+    subject: "New contact!"
+    submit_btn: "送信"
+    placeholders:
+      name: "お名前（ニックネームでも構いません）"
+      email: "メールアドレス "
+      message: "メッセージ"
+    errors:
+      locale: "en"
+      empty_name: "名前を入力してください"
+      empty_email: "メールアドレスを入力してください"
+      invalid_email: "メールアドレスが無効です"
+      empty_message: "メッセージがありません"
+    after_send:
+      title: "メッセージが送信されました"
+      message: "メッセージありがとうございます。"
 # Theme
-version: v3.1.0
+
+
+
+
+# Site Settings
+#=include site.yml
+
+# Social Media Settings
+# Remove the item if you don't need it
+#=include social.yml
+
+# Posts Settings
+#=include posts.yml
+
+# Advanced Settings
+#=include advanced.yml
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+paginate_path: "/page/:num/"
+show_get_theme_btn: false
+use_logo: false
+
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+
+# SASS
+sass:
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
+
+# Exclude my node related stuff
+exclude: [
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md'
+]
+
+# Theme
+version:
+
+
