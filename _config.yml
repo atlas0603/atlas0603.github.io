@@ -1,7 +1,7 @@
 # Site Settings
-name: InqTravel
-title: InqTravel ~探究心に溢れる旅を~
-description: InqTravelは主にヨーロッパ旅行の旅行記を綴った、ITエンジニアによる旅行ブログである。
+name: InqLife
+title: InqLife ~探究心に溢れる人生をを~
+description: InqLifeは主に旅行や人生の中で共有したいと感じたものをを綴った、ITエンジニアによるブログである。
 tags:
   - blog
   - ヨーロッパ
@@ -18,13 +18,14 @@ tags:
   - 好奇心
 
 email: tmasaki267@gmail.com
-disqus_username: マー
 show_hero: true
 menu:
   - title: Home
     url: /
   - title: About
     url: /about
+  - title: Tags
+    url: /tags
   - title: Contact
     url: /contact
   - title: Feed
@@ -105,18 +106,18 @@ exclude: [
 translations:
   text:
     new_post: "新しい投稿"
-    see_also: "こちらの記事も人気です"
-    search: "探す"
+    see_also: "こちらの投稿も人気です"
+    search: "投稿を探す"
     author: "著者"
-    share: "シェア"
+    share: "是非TwitterやFacebookでシェアお願いします"
     comments: "コメント"
   button:
     read_now: "投稿を読む"
     share_on_twitter: "Twitterでシェア"
     share_on_facebook: "Facebookでシェア"
   pagination:
-    page: "Page"
-    of: "of"
+    page: ""
+    of: "/"
     next_page: "次のページ"
     next_post: "前のページ"
   recommendation:
@@ -124,7 +125,7 @@ translations:
     back_btn: "トップへ戻る"
   error_404:
     title: "Page not found :("
-    message: "申し訳ございません。お探しのページが見つかりませんでした."
+    message: "申し訳ございません。お探しのページが見つかりませんでした。"
     image_alt: "404 - ページが見つかりません"
   contact:
     title: "お問い合わせ"
@@ -212,4 +213,5 @@ exclude: [
 # Theme
 version:
 
+site.posts: true
 
