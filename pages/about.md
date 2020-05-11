@@ -1,17 +1,12 @@
 ---
 layout: page
 title: About
-description: Some description.
+description: このWebサイトのテーマと私の自己紹介
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="マー" width="200">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+IT企業に勤める社会人一年目の駆け出しブロガー。学生時代、スウェーデンに滞在していた時期などを利用し、主にヨーロッパや中東、アメリカ、オセアニア、東南アジアなど計17カ国を訪れる。旅行記を中心に好奇心や探究心を満たしてくれるコンテンツを提供する場があったらなーという思いから始まったブログ。そんなブログ。最近は在宅ワークのため絶賛引きこもり中。隙間時間を利用し、専らブログ作成や筋トレに励む日々を送る。
