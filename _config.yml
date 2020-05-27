@@ -29,11 +29,12 @@ menu:
     url: /about
   - title: Tags
     url: /tags
+  - title: Travel
+    url: /category/travel
+  - title: Life
+    url: /category/life
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-
 paginate: 12
 
 # Social Media Settings
@@ -135,7 +136,7 @@ translations:
     subject: "New contact!"
     submit_btn: "送信"
     placeholders:
-      name: "お名前（ニックネームでも構いません）"
+      name: "お名前"
       email: "メールアドレス "
       message: "メッセージ"
     errors:

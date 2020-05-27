@@ -1,5 +1,5 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2019-05-16 23:48:05
 layout: post
 title: Why books should be your priority?
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -16,7 +16,7 @@ paginate: true
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+ Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
@@ -37,7 +37,14 @@ Most of these elements are styled by browsers with few modifications on our part
 
 <!--page-->
 
-# Heading 1
+<h2 style=" background: #dfefff; 
+box-shadow: 0px 0px 0px 5px #dfefff; 
+border: dashed 1px #96c2fe;  padding: 0.2em 0.5em; 
+color: #454545; ">マジか
+</h2>
+
+
+
 
 ## Heading 2
 
