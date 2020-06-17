@@ -198,7 +198,7 @@
     font-size: rem(36px);
     line-height: 1.4;
     @include media(">=sm") {
-      font-size: rem(50px);
+      font-size: rem(40px);
     }
   }
 
@@ -345,7 +345,7 @@
   }
 
   h2 {
-    font-size: rem(24px);
+    font-size: rem(20px);
     font-weight: bold;
     border-bottom: 1px solid $lightGray;
     padding: rem(10px) 0;
