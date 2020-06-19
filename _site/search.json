@@ -4,8 +4,8 @@
   
     {
       "title"    : "円形図書館",
-      "tags"     : "",
-      "categories" : "",
+      "tags"     : "スウェーデン and ストックホルム",
+      "categories" : "travel",
       "url"      : "/%E5%86%86%E5%BD%A2%E5%9B%B3%E6%9B%B8%E9%A4%A8/",
       "date"     : "2020年06月17日"
     } ,
@@ -35,11 +35,11 @@
     } ,
   
     {
-      "title"    : "The quick brown fox jumps over a lazy dog",
-      "tags"     : "css and tips",
-      "categories" : "css",
-      "url"      : "/the-quick-brown-fox-jumps-over-a-lazy-dog/",
-      "date"     : "2018年10月09日"
+      "title"    : "A wonderful serenity has taken possession of my entire soul",
+      "tags"     : "platform, javascript, and vscode",
+      "categories" : "code",
+      "url"      : "/a-wonderful-serenity-has-taken-possession-of-my-entire-soul-22.45.19/",
+      "date"     : "2018年07月20日"
     } 
   
 ]

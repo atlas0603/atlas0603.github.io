@@ -40,7 +40,7 @@ Most of these elements are styled by browsers with few modifications on our part
 <h2 style=" background: #dfefff; 
 box-shadow: 0px 0px 0px 5px #dfefff; 
 border: dashed 1px #96c2fe;  padding: 0.2em 0.5em; 
-color: #454545; ">マジか
+color: #454545; ">サブタイトル
 </h2>
 
 
