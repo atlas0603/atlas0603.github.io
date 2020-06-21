@@ -4,7 +4,7 @@
   
     {
       "title"    : "円形図書館",
-      "tags"     : "スウェーデン and ストックホルム",
+      "tags"     : "スウェーデン, ストックホルム, and 図書館",
       "categories" : "travel",
       "url"      : "/%E5%86%86%E5%BD%A2%E5%9B%B3%E6%9B%B8%E9%A4%A8/",
       "date"     : "2020年06月17日"
@@ -12,7 +12,7 @@
   
     {
       "title"    : "ストックホルムの街を一望できる場所",
-      "tags"     : "スウェーデン and ストックホルム",
+      "tags"     : "スウェーデン, ストックホルム, and 景色",
       "categories" : "travel",
       "url"      : "/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%9B%E3%83%AB%E3%83%A0%E3%81%AE%E8%A1%97%E3%82%92%E4%B8%80%E6%9C%9B%E3%81%A7%E3%81%8D%E3%82%8B%E5%A0%B4%E6%89%80/",
       "date"     : "2020年05月26日"
@@ -24,22 +24,6 @@
       "categories" : "life",
       "url"      : "/inqlife%E3%81%A8%E3%81%AF/",
       "date"     : "2020年05月16日"
-    } ,
-  
-    {
-      "title"    : "Why books should be your priority?",
-      "tags"     : "books and read",
-      "categories" : "life",
-      "url"      : "/why-books-should-be-your-priority/",
-      "date"     : "2019年05月17日"
-    } ,
-  
-    {
-      "title"    : "A wonderful serenity has taken possession of my entire soul",
-      "tags"     : "platform, javascript, and vscode",
-      "categories" : "code",
-      "url"      : "/a-wonderful-serenity-has-taken-possession-of-my-entire-soul-22.45.19/",
-      "date"     : "2018年07月20日"
     } 
   
 ]

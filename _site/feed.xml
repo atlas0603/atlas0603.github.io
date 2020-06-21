@@ -5,8 +5,8 @@
     <description>InqLifeは主に旅行や人生の中で共有したいと感じたものをを綴ったブログである。</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Jun 2020 21:01:24 +0900</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2020 21:01:24 +0900</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2020 17:56:01 +0900</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2020 17:56:01 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -20,6 +20,8 @@
         <category>スウェーデン</category>
         
         <category>ストックホルム</category>
+        
+        <category>図書館</category>
         
         <category>travel</category>
       </item>
@@ -36,6 +38,8 @@
         <category>スウェーデン</category>
         
         <category>ストックホルム</category>
+        
+        <category>景色</category>
         
         <category>travel</category>
       </item>
@@ -55,36 +59,6 @@
         <category>マインドセット</category>
         
         <category>life</category>
-      </item>
-    
-      <item>
-        <title>Why books should be your priority?</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;!--page--&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of which...</description>
-        <pubDate>Fri, 17 May 2019 08:48:05 +0900</pubDate>
-        <link>http://localhost:4000/why-books-should-be-your-priority/</link>
-        <guid isPermaLink="true">http://localhost:4000/why-books-should-be-your-priority/</guid>
-        
-        <category>books</category>
-        
-        <category>read</category>
-        
-        <category>life</category>
-      </item>
-    
-      <item>
-        <title>A wonderful serenity has taken possession of my entire soul</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Fri, 20 Jul 2018 21:26:40 +0900</pubDate>
-        <link>http://localhost:4000/a-wonderful-serenity-has-taken-possession-of-my-entire-soul-22.45.19/</link>
-        <guid isPermaLink="true">http://localhost:4000/a-wonderful-serenity-has-taken-possession-of-my-entire-soul-22.45.19/</guid>
-        
-        <category>platform</category>
-        
-        <category>javascript</category>
-        
-        <category>vscode</category>
-        
-        <category>code</category>
       </item>
     
   </channel>
