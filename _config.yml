@@ -1,6 +1,6 @@
 # Site Settings
 name: InqLife
-title: InqLife ~探究心に溢れる人生をを~
+title: InqLife ~探究心に溢れる人生を~
 description: InqLifeは主に旅行や人生の中で共有したいと感じたものをを綴ったブログである。
 tags:
   - blog
@@ -22,6 +22,10 @@ tags:
   - 英語
   - 海外
   - 観光
+  - 国際
+  - 世界
+  - 世界遺産
+  - 外国
 email: tmasaki267@gmail.com
 show_hero: true
 menu:
@@ -115,7 +119,7 @@ translations:
     see_also: "こちらの投稿も人気です"
     search: "投稿を探す"
     author: "著者"
-    share: "是非TwitterやFacebookでシェアお願いします"
+    share: "SHARE"
     comments: "コメント"
   button:
     read_now: "投稿を読む"
@@ -130,12 +134,12 @@ translations:
     text: "おすすめの記事"
     back_btn: "トップへ戻る"
   error_404:
-    title: "Page not found :("
-    message: "申し訳ございません。お探しのページが見つかりませんでした。"
+    title: "Page not found"
+    message: "申し訳ございません。お探しのページが見つかりませんでした"
     image_alt: "404 - ページが見つかりません"
   contact:
     title: "お問い合わせ"
-    subject: "New contact!"
+    subject: "新しいお問い合わせ"
     submit_btn: "送信"
     placeholders:
       name: "お名前"
@@ -149,7 +153,7 @@ translations:
       empty_message: "メッセージがありません"
     after_send:
       title: "メッセージが送信されました"
-      message: "メッセージありがとうございます。"
+      message: "メッセージありがとうございます"
 # Theme
 
 

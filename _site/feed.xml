@@ -1,40 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>InqLife ~探究心に溢れる人生をを~</title>
+    <title>InqLife ~探究心に溢れる人生を~</title>
     <description>InqLifeは主に旅行や人生の中で共有したいと感じたものをを綴ったブログである。</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Jun 2020 21:21:49 +0900</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2020 21:21:49 +0900</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2020 23:10:07 +0900</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2020 23:10:07 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
-        <title>円形図書館</title>
-        <description>
-</description>
-        <pubDate>Wed, 17 Jun 2020 23:18:57 +0900</pubDate>
-        <link>http://localhost:4000/%E5%86%86%E5%BD%A2%E5%9B%B3%E6%9B%B8%E9%A4%A8/</link>
-        <guid isPermaLink="true">http://localhost:4000/%E5%86%86%E5%BD%A2%E5%9B%B3%E6%9B%B8%E9%A4%A8/</guid>
-        
-        <category>スウェーデン</category>
-        
-        <category>ストックホルム</category>
-        
-        <category>図書館</category>
-        
-        <category>travel</category>
-      </item>
-    
-      <item>
         <title>ストックホルムの街を一望できる場所</title>
-        <description>&lt;p&gt;14の島から構成され、北欧のベネチアとも呼ばれるストックホルムの中心地を一望できる展望台を紹介します。&lt;/p&gt;
-
-&lt;p&gt;あ
-hello&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 26 May 2020 22:34:29 +0900</pubDate>
+        <description>&lt;p&gt;14の島から構成され、北欧のベネチアとも呼ばれるストックホルムの中心地を一望できる展望台を紹介します。&lt;/p&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;h3 style=&quot; background: #E0F8F7; border-left: solid 5px #00b7ce; color: #494949; padding: 0.5em; color: #454545; &quot;&gt;ストックホルムってどんな街？ &lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;/img/stockholm.jpg&quot; alt=&quot;ストックホルム地図&quot; /&gt; ストックホルムはスウェーデン王国の首都で、バルト海の中程に位置しています。湖と海に囲まれた非常に美しい街でノーベル賞の受賞式が行われる場所としても有名です。また日本ではジブリ作品の「魔女と宅急便」の舞台となった街としても知られています。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;またこれはスウェーデン全般に言えることですが、公用語はスウェーデン語なのにも関わらず、ストックホルム市民のほとんどが流暢な英語を話すことができます。&lt;/strong&gt;スーパーの店員さんやバスの運転手さんも話せます。なので言語に関しての障壁はそこまで高くなく、安心して観光することができます。&lt;/p&gt; &lt;p&gt;私は一年間スウェーデンに住んでいましたが、英語が通じなかったことはほとんどありません。&lt;/p&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;h3 style=&quot; background: #E0F8F7; border-left: solid 5px #00b7ce; color: #494949; padding: 0.5em; color: #454545; &quot;&gt;Mariaberget &lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/ACtC-3du8TalIbw9cOlpLL3xZHCIWAB1Q7f4Sh-PAEGnSksUVq21UlK_lwllmFBce66fJUS10kh5B0xdmEqtMnsyCL0UlDdckL6Fe7BvGBGHo_WEZ22BoSiE21dr4qtvvCJWWkKWkSDJfOiY-nhZE_SjQns_=w2746-h1544-no?authuser=0&quot; alt=&quot;ストックホルム夜景&quot; /&gt; Mariabergetはセーデルマルム島の北部に位置する展望台です。セーデルマルム島の北部は海岸が崖となっているので、高く見晴らしの良い場所からストックホルムの中心部であるがムラスタンを眺めることができます。&lt;/p&gt; &lt;p&gt;展望台はちょっとした公園のようになっていて、テーブルやベンチが置いてあります。中心部に見えるのはリッダーホルム教会です。昼の景色も綺麗ですが、夜になるとガラッと雰囲気が変わります。夏と冬とでも雰囲気が変わるとても魅力的な場所です。&lt;/p&gt; &lt;p&gt;１月の一番寒い時期にも行ったにも関わらず、観光客らしきたくさんの人が写真を撮っていました。&lt;/p&gt; &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5929.942546684449!2d18.062839389511186!3d59.31977922068451!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6b19b1a7377f1a88!2sMariaberget!5e0!3m2!1sja!2sjp!4v1593346381912!5m2!1sja!2sjp&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; aria-hidden=&quot;false&quot; tabindex=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;h3 style=&quot; background: #E0F8F7; border-left: solid 5px #00b7ce; color: #494949; padding: 0.5em; color: #454545; &quot;&gt;Skinnarviksberget &lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/ACtC-3fQBGG5i0bywZKUM_6rlftcAfwQokj-rgqjMngZA2U6LgX8FjDpk429ySpubprYlLp0YhhDdPx3Yf-1XZKyUrSNHDX12PyjkHiCE8BCYGrn1szhhQCuEP8R8IKHJgLNq4ZGKQMSR3DztJqtITpqqHny=w2746-h1546-no?authuser=0&quot; alt=&quot;ストックホルム日の入り&quot; /&gt;&lt;/p&gt; &lt;p&gt;Skinnarviksbergetは同じくセーデルマルム島の北部に位置する展望台ですが、こちらの方が若干広く人が多いので賑やかです。こちらはMariabergetと違い、地面が大きな岩のような場所にあり、お世辞にも座り心地が良い場所とは言えませんが、それを感じさせないほどの絶景が目の前には広がっています。&lt;/p&gt; &lt;p&gt;夏は夕暮れに多くの若者たちが集まり、酒を飲みながら談笑をしています。スウェーデンは緯度が高い場所に位置しているため、夏の日照時間が日本と比べて恐ろしく長いのです。午後１０時とかでも普通に明るいため、たくさんの人が週末などにこの展望台に夕焼け（夕といっても夜ですが）をみに来るわけです。&lt;/p&gt; &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4716.588775423933!2d18.052046469195194!3d59.32162855435129!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x63f68fd8fb2317ee!2sSkinnarviksberget!5e0!3m2!1sja!2sjp!4v1593351775368!5m2!1sja!2sjp&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; aria-hidden=&quot;false&quot; tabindex=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;h3 style=&quot; background: #E0F8F7; border-left:...</description>
+        <pubDate>Thu, 28 May 2020 22:34:29 +0900</pubDate>
         <link>http://localhost:4000/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%9B%E3%83%AB%E3%83%A0%E3%81%AE%E8%A1%97%E3%82%92%E4%B8%80%E6%9C%9B%E3%81%A7%E3%81%8D%E3%82%8B%E5%A0%B4%E6%89%80/</link>
         <guid isPermaLink="true">http://localhost:4000/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%9B%E3%83%AB%E3%83%A0%E3%81%AE%E8%A1%97%E3%82%92%E4%B8%80%E6%9C%9B%E3%81%A7%E3%81%8D%E3%82%8B%E5%A0%B4%E6%89%80/</guid>
         
@@ -49,9 +27,20 @@ hello&lt;/p&gt;
     
       <item>
         <title>InqLifeとは</title>
-        <description>&lt;p&gt;こんにちは。様々な場所に旅行した記録を共有したいという思いから始まったブログがInqLifeです。上の写真は富士山の頂上から撮影した写真です。さて、このInqLifeのテーマは探究心と好奇心です。InqLifeは探究心、好奇心を意味する”inquisitive”と人生を意味する”life”からきています。&lt;/p&gt;
+        <description>&lt;h3 style=&quot; background: #E0F8F7; 
+border-left: solid 5px #00b7ce;
+color: #494949;
+padding: 0.5em; 
+color: #454545; &quot;&gt;ブログのテーマ
+&lt;/h3&gt;
 
-&lt;p&gt;なぜこのテーマにしたかというと、私は知らないことを知ることが好きだからです。どのようにしてそうなったのかとか、なんでそのような考えをするのだろうとか考えるのが好きなんですね。人間の欲求っていくつかありますけど、探究心や好奇心って割と原始的なものなんじゃないかと思ってます。&lt;/p&gt;
+&lt;p&gt;こんにちは。様々な場所に旅行した記録を共有したいという思いから始まったブログがInqLifeです。上の写真は富士山の頂上から撮影した写真です。&lt;/p&gt;
+
+&lt;p&gt;さて、このInqLifeのテーマは探究心と好奇心です。InqLifeは探究心のある、好奇心旺盛を意味する”inquisitive”と人生を意味する”life”からきています。&lt;/p&gt;
+
+&lt;p&gt;なぜこのテーマにしたかというと、私は知らないことを知ることが好きだからです。物事の成り立ちであったり、どのようにしてそうなったのかとか、なんでそのような考えをするのだろうとか考えるのが好きなんですね。&lt;/p&gt;
+
+&lt;p&gt;人間の欲求っていくつかありますけど、探究心や好奇心って割と原始的なものなんじゃないかと思ってます。&lt;/p&gt;
 
 &lt;p&gt;なのでまあ割とざっくりとしたテーマですけど、少しでも探究心や好奇心を満たしてくれるようなコンテンツを共有していけたらなという思いでブログスタートです！&lt;/p&gt;
 </description>
