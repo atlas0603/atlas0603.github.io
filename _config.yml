@@ -1,7 +1,7 @@
 # Site Settings
 name: InqLife
 title: InqLife ~探究心に溢れる人生を~
-description: InqLifeは主に旅行や人生の中で共有したいと感じたものをを綴ったブログである。
+description: InqLifeは主に旅行や人生の中で共有したいと感じたものを綴ったブログである。
 tags:
   - blog
   - ヨーロッパ
@@ -35,6 +35,8 @@ menu:
     url: /about
   - title: Travel
     url: /category/travel
+  - title: Movie
+    url: /category/movie
   - title: Life
     url: /category/life
   - title: Tags
