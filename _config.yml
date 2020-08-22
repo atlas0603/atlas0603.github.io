@@ -29,7 +29,7 @@ tags:
   - 映画
   - 洋画
 email: tmasaki267@gmail.com
-show_hero: false
+show_hero: true
 menu:
   - title: Home
     url: /

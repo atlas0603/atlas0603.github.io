@@ -3,6 +3,14 @@
   
   
     {
+      "title"    : "円形図書館",
+      "tags"     : "スウェーデン, ストックホルム, and 図書館",
+      "categories" : "travel",
+      "url"      : "/%E5%86%86%E5%BD%A2%E5%9B%B3%E6%9B%B8%E9%A4%A8/",
+      "date"     : "2020年08月22日"
+    } ,
+  
+    {
       "title"    : "Jekyllでホームページを作成する",
       "tags"     : "ホームページ作成, ブログ作成, and 静的サイトジェネレータ",
       "categories" : "it",
