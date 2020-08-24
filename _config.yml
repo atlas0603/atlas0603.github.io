@@ -37,8 +37,8 @@ menu:
     url: /about
   - title: Travel
     url: /category/travel
-  - title: Movie
-    url: /category/movie
+  - title: Review
+    url: /category/review
   - title: IT
     url: /category/it
   - title: Life
