@@ -28,6 +28,8 @@ tags:
   - 外国
   - 映画
   - 洋画
+  - IT
+  - プログラミング
 email: tmasaki267@gmail.com
 show_hero: true
 menu:
@@ -47,6 +49,9 @@ menu:
     url: /tags
   - title: Contact
     url: /contact
+  - title: Privacy Policy
+    url: /privacypolicy
+    
 paginate: 12
 
 # Social Media Settings
